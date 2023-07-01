@@ -1,0 +1,13 @@
+{
+    "theme_color": "#000000",
+    "background_color": "#000000",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/",
+    "name": "Anastassiya",
+    "short_name": "Nastya",
+    "description": "This is Nastya",
+    "icons": {
+        "name": "favicon.ico"
+    }
+}
